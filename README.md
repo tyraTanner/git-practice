@@ -1,4 +1,4 @@
-# git-practice
+# git-practice-clone
 
 Notes on git commands
 
